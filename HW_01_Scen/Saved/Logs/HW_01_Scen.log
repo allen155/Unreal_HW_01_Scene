@@ -1780,3 +1780,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.30-13.25.55:034][240]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.07.30-13.25.55:105][240]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
 [2021.07.30-13.25.55:140][241]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.07.30-13.37.14:976][401]LogTexture: Display: Building textures: DeprecatedTexture3884DE244CA9D1E5320A11B1C608A293 (BGRA8, 128X128)
+[2021.07.30-13.37.15:042][401]LogObjectTools: Deleting 1 worlds: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.07.30-13.37.15:042][401]LogObjectTools: Currently 6 active worlds: /Game/MAPS/遊戲地圖.遊戲地圖, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5
+[2021.07.30-13.37.15:072][401]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2021.07.30-13.37.16:351][401]LogSlate: Window 'Delete Assets' being destroyed
+[2021.07.30-13.37.16:376][401]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.30-13.37.16:376][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.30-13.37.16:458][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2021.07.30-13.37.16:479][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.07.30-13.37.16:509][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.07.30-13.37.16:530][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
